@@ -1,0 +1,37 @@
+Name: /
+USC ID: /
+News site crawled: https://www.foxnews.com
+Number of threads: 7
+
+Fetch Statistics
+================
+# fetches attempted: 19995
+# fetches succeeded: 19903
+# fetches failed or aborted: 92
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2713556
+# unique URLs extracted: 135792
+# unique URLs within News Site: 59894
+# unique URLs outside News Site: 75904
+
+Status Codes:
+=============200: 19903
+301: 50
+404: 34
+500: 6
+403: 1
+503: 1
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 4776
+100KB ~ <1MB: 12786
+>= 1MB: 82
+
+Content Types:
+==============
+text/html: 17644
