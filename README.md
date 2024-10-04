@@ -1,2 +1,2 @@
 # Web-Crawler--Practice
-Practice for CSCI572 HW
+Practice for web search engine HW
