@@ -1,0 +1,5 @@
+Based on the analysis of the search results from Yahoo and Google, the average percent overlap between the two search engines across all queries was 17.4%. This indicates that on average, only a small portion of the top 10 search results overlapped between the two search engines.
+
+Furthermore, the average Spearman coefficient was 0.24, which suggests a weak positive correlation between the rankings of the common URLs in both search engines. While there was some overlap, the rankings of the common results were not highly correlated, meaning that Yahoo and Google often ranked the same URLs differently.
+
+In summary, the assigned search engine (Yahoo) performed somewhat similarly to Google, but the overlap and correlation in the rankings were low. This suggests that while there are some similarities in the results retrieved by both search engines, they prioritize and rank results differently, leading to significant variations in their output.
